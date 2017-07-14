@@ -1,0 +1,37 @@
+/* You can add global styles to this file, and also import other style files */
+.navbar-inverse .navbar-nav>li>app-logout>a {
+    color: #ffffff;
+}
+.navbar-inverse .navbar-nav>li>app-logout>a {
+    color: #9d9d9d;
+}
+.navbar-nav>li>app-logout>a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 21px;
+}
+.nav>li>app-logout>a {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+}
+.navbar-nav>li>app-logout>a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 20px;
+}
+.nav>li>app-logout>a {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+}
+
+.nav>li>app-logout>a {
+    color: white !important;
+    text-decoration: none;
+}
+
+.nav>li>app-logout>a:hover{
+    background-color: #1967BE;
+    cursor: pointer;
+}

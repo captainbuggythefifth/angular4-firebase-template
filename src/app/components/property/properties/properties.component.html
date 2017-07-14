@@ -1,0 +1,5 @@
+<ul class="property-group list-group">
+  <li class="property-group-item list-group-item" *ngFor="let property of properties">
+    <a [routerLink]="['/property/' + property.$key]">{{property.title}}</a>
+  </li>
+</ul>
